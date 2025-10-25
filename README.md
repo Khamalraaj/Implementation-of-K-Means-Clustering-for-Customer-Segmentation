@@ -73,12 +73,13 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/70e1aca3-4a71-4696-b2b9-928d77b0a83e)
-![image](https://github.com/user-attachments/assets/7caea61e-f3c1-47c5-b8fe-2bc2e909dfe9)
-![image](https://github.com/user-attachments/assets/8334f36d-3acc-4643-8a5f-cabdcb3a59f2)
-![image](https://github.com/user-attachments/assets/63016bcc-0be2-4f62-bbab-a741adb491e1)
-![image](https://github.com/user-attachments/assets/6e28ea51-13fb-4803-a47a-31437f95b6f6)
-![image](https://github.com/user-attachments/assets/3e4f7550-b44f-4de9-b739-505a989a2293)
+<img width="639" height="250" alt="image" src="https://github.com/user-attachments/assets/9cbe1b85-0b43-4408-8c9c-29037295e9c5" />
+<img width="517" height="243" alt="image" src="https://github.com/user-attachments/assets/4bb60043-2703-4ba8-9ce8-358bfb40c9cb" />
+<img width="426" height="258" alt="image" src="https://github.com/user-attachments/assets/ffb89649-e706-4cdd-bfdb-5f44ea4eee75" />
+<img width="658" height="446" alt="image" src="https://github.com/user-attachments/assets/de2c8d39-dfbe-419e-8aba-2a7df369dad2" />
+<img width="624" height="178" alt="image" src="https://github.com/user-attachments/assets/a0f8711a-38a8-404f-bd2d-acded95db6e1" />
+<img width="696" height="454" alt="image" src="https://github.com/user-attachments/assets/c4ac3131-ba46-4b48-9c69-aa6ff63b7e14" />
+
 
 
 
